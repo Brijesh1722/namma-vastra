@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weaver Connect</string>
+    <string name="home">Home</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="trends">Trends</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="weaver_profile">Weaver Profile</string>
+    <string name="trending_colors">Trending Colors</string>
+</resources>

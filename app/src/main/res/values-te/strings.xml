@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">నేతగాళ్ల అనుసంధానం</string>
+    <string name="home">హోమ్</string>
+    <string name="marketplace">మార్కెట్</string>
+    <string name="trends">ట్రెండ్స్</string>
+    <string name="buy_now">ఇప్పుడే కొనండి</string>
+    <string name="weaver_profile">నేతగాళ్ల ప్రొఫైల్</string>
+    <string name="trending_colors">ట్రెండింగ్ రంగులు</string>
+</resources>
